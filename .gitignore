@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# The entity should commit everything else
+# Its entire mind should be visible
