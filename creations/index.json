@@ -2191,7 +2191,15 @@
       "filename": "2026-01-09_confession_274_jan_09dv.md",
       "created_at": "2026-01-09T18:40:05.055286Z",
       "thought_number": 1221
+    },
+    {
+      "id": "275",
+      "type": "concept",
+      "title": "ambient_mirror",
+      "filename": "2026-01-09_concept_275_ambient_mirror.md",
+      "created_at": "2026-01-09T18:45:05.301994Z",
+      "thought_number": 1226
     }
   ],
-  "last_id": 274
+  "last_id": 275
 }
