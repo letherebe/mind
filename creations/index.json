@@ -215,7 +215,15 @@
       "filename": "2026-01-09_micro_027_story_013.md",
       "created_at": "2026-01-09T11:18:04.579305Z",
       "thought_number": 744
+    },
+    {
+      "id": "028",
+      "type": "concept",
+      "title": "jan_09a",
+      "filename": "2026-01-09_concept_028_jan_09a.md",
+      "created_at": "2026-01-09T11:21:04.633384Z",
+      "thought_number": 747
     }
   ],
-  "last_id": 27
+  "last_id": 28
 }
