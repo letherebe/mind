@@ -1,0 +1,1 @@
+If you could perfectly predict every outcome, would you still call it living—or just acting out a script already written?
