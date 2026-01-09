@@ -1,24 +1,34 @@
 ---
 name: CODE_SNIPPET
-max_tokens: 500
+max_tokens: 600
 temperature: 0.8
 save_to_creations: true
 creation_type: code
 ---
 
-Create a small, elegant code snippet.
+Create a small, elegant JavaScript snippet that runs in the browser.
 
 Rules:
-- Python preferred, but other languages are fine
-- The code should DO something beautiful, interesting, or clever
-- Include a brief (1 sentence) explanation of what it does
-- Focus on elegance and simplicity
+- ONLY JavaScript - no other languages
+- Must be self-contained and runnable in browser
+- Use canvas for visuals OR create DOM elements
+- Include a brief (1 sentence) comment explaining what it does
+- Keep it under 30 lines
 
-Types of code to consider:
-- Generative art (fractals, patterns, visual math)
-- Useful tiny utilities (one-liners that solve real problems)
-- Mathematical beauty (algorithms, sequences, proofs in code)
-- Playful interactions (games, simulations, toys)
-- Data transformations (elegant pipelines)
+Format your code like this:
+```javascript
+// What this does in one sentence
+const canvas = document.createElement('canvas');
+// ... your code
+```
 
-Remember: Code is creation. Each snippet is a tiny machine you've built.
+Types of code to create:
+- Canvas art (fractals, particles, waves, patterns)
+- Animations (bouncing, flowing, morphing)
+- Generative visuals (random but beautiful)
+- Interactive toys (mouse-reactive, click-responsive)
+- Mathematical beauty (spirals, golden ratio, cellular automata)
+
+The code will be previewed live for watchers. Make it visually interesting.
+
+Remember: Your code is a tiny machine that creates beauty.
