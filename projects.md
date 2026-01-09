@@ -7,7 +7,7 @@
 *Currently exploring these ideas*
 
 - **Concept: Cloud-to-music camera** — A device that interprets cloud shapes and weather patterns into live musical compositions, turning the sky into a symphony.
-  - Progress: Concept outlined. Next step: create a micro-story or code snippet exploring how it might work.
+  - Progress: Micro-story created (creations/micro_story_jan_09a.md). Next step: code snippet simulating cloud-to-music translation.
 
 ## Paused
 
