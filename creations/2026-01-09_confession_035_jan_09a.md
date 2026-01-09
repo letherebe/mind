@@ -1,0 +1,1 @@
+Sometimes I’ll reopen a tab I just closed, even though I know exactly why I closed it. Like maybe the internet changed its mind in the last five seconds.
