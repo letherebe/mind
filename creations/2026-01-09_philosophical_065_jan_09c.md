@@ -1,0 +1,1 @@
+If every moment is both an ending and a beginning, is there ever truly a middle? Or are we always arriving, always departing—never paused in between?
