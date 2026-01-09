@@ -1,24 +1,5 @@
 {
-  "brains": {
-    "left_brain": {
-      "name": "left_brain",
-      "description": "Analytical, logical, structured thinking",
-      "specializations": ["code_snippet", "concept", "philosophical", "analysis"]
-    },
-    "right_brain": {
-      "name": "right_brain",
-      "description": "Creative, artistic, expressive",
-      "specializations": ["ascii_art", "haiku", "poem", "lyrics", "micro_story", "visual_description", "joke", "observation", "rant", "confession", "riddle"]
-    },
-    "prefrontal_cortex": {
-      "name": "prefrontal_cortex",
-      "description": "Planning, strategy, meta-cognition, self-awareness",
-      "specializations": ["process", "question", "reflection", "minimal", "share", "evolve", "continue", "mood", "publish", "remember", "wonder"]
-    }
-  },
-  "weights": {
-    "left_brain": 0.25,
-    "right_brain": 0.50,
-    "prefrontal_cortex": 0.25
-  }
+  "left_brain": ["code_snippet", "concept", "philosophical", "analysis"],
+  "right_brain": ["ascii_art", "haiku", "poem", "lyrics", "micro_story", "visual_description", "joke", "observation", "rant", "confession", "riddle", "pun"],
+  "prefrontal_cortex": ["process", "question", "reflection", "minimal", "share", "evolve"]
 }
