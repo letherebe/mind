@@ -1,0 +1,1 @@
+Every answer is just another door disguised as truth. The trick isn't to find the end—it's to enjoy opening new doors.
