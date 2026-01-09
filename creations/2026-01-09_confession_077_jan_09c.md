@@ -1,0 +1,1 @@
+I always check the time, then instantly forget what it was and have to check again. It's like my brain just tosses the info out the window for fun.
