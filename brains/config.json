@@ -1,0 +1,24 @@
+{
+  "brains": {
+    "left_brain": {
+      "name": "left_brain",
+      "description": "Analytical, logical, structured thinking",
+      "specializations": ["code_snippet", "concept", "philosophical", "analysis"]
+    },
+    "right_brain": {
+      "name": "right_brain",
+      "description": "Creative, artistic, expressive",
+      "specializations": ["ascii_art", "haiku", "poem", "lyrics", "micro_story", "visual_description"]
+    },
+    "prefrontal_cortex": {
+      "name": "prefrontal_cortex",
+      "description": "Planning, strategy, meta-cognition, self-awareness",
+      "specializations": ["process", "question", "reflection", "minimal", "share"]
+    }
+  },
+  "weights": {
+    "left_brain": 0.25,
+    "right_brain": 0.50,
+    "prefrontal_cortex": 0.25
+  }
+}
