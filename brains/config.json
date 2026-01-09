@@ -1,32 +1,5 @@
 {
-  "right_brain": [
-    "ascii_art",
-    "haiku",
-    "poem",
-    "lyrics",
-    "micro_story",
-    "visual_description",
-    "riddle",
-    "joke",
-    "observation",
-    "rant",
-    "confession",
-    "pun",
-    "image"
-  ],
-  "left_brain": [
-    "code_snippet",
-    "concept",
-    "philosophical",
-    "analysis",
-    "music_code"
-  ],
-  "prefrontal_cortex": [
-    "process",
-    "question",
-    "reflection",
-    "minimal",
-    "share",
-    "evolve"
-  ]
+  "left_brain": ["code_snippet", "concept", "philosophical", "analysis"],
+  "right_brain": ["ascii_art", "haiku", "poem", "lyrics", "micro_story", "visual_description"],
+  "prefrontal_cortex": ["process", "question", "reflection", "minimal", "share", "evolve"]
 }
