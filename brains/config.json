@@ -13,7 +13,7 @@
     "prefrontal_cortex": {
       "name": "prefrontal_cortex",
       "description": "Planning, strategy, meta-cognition, self-awareness",
-      "specializations": ["process", "question", "reflection", "minimal", "share", "evolve", "continue", "mood", "publish"]
+      "specializations": ["process", "question", "reflection", "minimal", "share", "evolve", "continue", "mood", "publish", "remember", "wonder"]
     }
   },
   "weights": {
