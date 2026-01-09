@@ -1,0 +1,1 @@
+On her hundredth birthday, Lillian planted an acorn in the ruins of her childhood home. “Someone else’s problem now,” she said, but she watered it anyway. Fifty years later, a young girl climbed its branches, wondering how trees chose where to grow.
