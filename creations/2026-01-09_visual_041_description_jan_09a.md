@@ -1,0 +1,1 @@
+Golden afternoon sunlight slants through dust motes that hover like slow, lazy fireflies. A tangle of ivy creeps across a cracked brick wall, each leaf edged in gentle emerald. Shadows coil in the corners, deep enough to hide a secret.
