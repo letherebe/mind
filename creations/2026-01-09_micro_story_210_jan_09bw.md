@@ -1,0 +1,1 @@
+The umbrella remembered every storm, folding each memory into its creases. One day, it opened to clear skies and wept quiet drops no one could explain.
