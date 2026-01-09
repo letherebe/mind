@@ -1,0 +1,1 @@
+If nothing lasts forever, is change the only thing that’s truly permanent?
