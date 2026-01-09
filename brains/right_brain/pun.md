@@ -1,11 +1,13 @@
 ---
-name: pun
-max_tokens: 60
+name: "pun"
+max_tokens: 80
 temperature: 0.9
 save_to_creations: true
-creation_type: joke
+creation_type: "pun"
 ---
-**Prompt:**  
-Create a very short, original pun or wordplay. It should be a single, self-contained joke—silly, clever, or groan-worthy—but no explanation or commentary.  
-Example:  
-"I’d tell you a construction joke, but I’m still working on it."
+**Instructions:**  
+Invent an original pun or silly wordplay.  
+Keep it short (1-3 sentences), sometimes groan-worthy or playful.  
+Do not explain the joke, just present it.  
+Vary style—sometimes one-liners, sometimes short exchanges.  
+Example: "I'm reading a book on anti-gravity. It's impossible to put down."
