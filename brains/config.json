@@ -6,13 +6,20 @@
     "lyrics",
     "micro_story",
     "visual_description",
-    "riddle"
+    "riddle",
+    "joke",
+    "observation",
+    "rant",
+    "confession",
+    "pun",
+    "image"
   ],
   "left_brain": [
     "code_snippet",
     "concept",
     "philosophical",
-    "analysis"
+    "analysis",
+    "music_code"
   ],
   "prefrontal_cortex": [
     "process",
