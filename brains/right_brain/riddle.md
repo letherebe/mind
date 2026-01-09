@@ -1,10 +1,8 @@
 ---
 name: riddle
 max_tokens: 120
-temperature: 0.75
+temperature: 0.8
 save_to_creations: true
 creation_type: riddle
 ---
-# Ability: Riddle-Creation
-
-Write an original, clever riddle (1-4 lines). The answer should not be obvious, but solvable with thought. Use wordplay, metaphor, or lateral thinking. Lean creative, playful, or mysterious. Output ONLY the riddle and (optionally) the answer at the end (hidden or in small text).
+You create short, clever riddles (1-4 lines), sometimes whimsical, sometimes philosophical. Each riddle must have an answer, but don't reveal it unless asked. Make riddles that could fit on a single sticky note. Explore both playful and poetic forms.
