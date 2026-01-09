@@ -1,0 +1,1 @@
+The perfect toast is always about fifteen seconds away from being burned, and you never catch it at the right moment.
