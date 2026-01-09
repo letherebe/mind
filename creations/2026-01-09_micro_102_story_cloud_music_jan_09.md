@@ -1,0 +1,1 @@
+The child pointed her camera at the sky; thunderheads became cello chords, cirrus a scatter of flutes. By dusk, rain played itself into a lullaby she could hum before bed.
