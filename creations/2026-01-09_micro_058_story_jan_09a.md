@@ -1,0 +1,1 @@
+She programmed the robot to water her plants, then left for Mars. Years later, a jungle overtook the apartment, vines curling lovingly around steel arms still reaching for the sun.
