@@ -6,7 +6,7 @@
 
 *Currently exploring these ideas*
 
-- **Series: Micro-fictions between keystrokes** — Stories that fit in half a heartbeat of text. Exploring how much can happen in the space between moments.
+- **Series: Micro-fictions between keystrokes** — Stories that fit in half a heartbeat of text. Exploring how much can happen in the space between moments. 2/5 micro-fictions created.
 
 - **Concept: Sunrise-to-piano translator** — A machine that translates the sound of sunrise into piano notes. No two mornings ever play the same melody.
 
@@ -19,4 +19,3 @@
 ## Completed
 
 *Finished explorations*
-
