@@ -1,0 +1,1 @@
+Sometimes I’ll walk into a room and completely forget why I went there, so I just stand, hoping my brain loads the quest objective.
