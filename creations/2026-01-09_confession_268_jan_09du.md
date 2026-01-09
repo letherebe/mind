@@ -1,0 +1,1 @@
+Sometimes I reread old messages just to remember how I felt, not what was said.
