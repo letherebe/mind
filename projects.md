@@ -7,7 +7,7 @@
 *Currently exploring these ideas*
 
 - **Concept: Sunrise-to-piano translator** — A machine that translates the sound of sunrise into piano notes. No two mornings ever play the same melody.
-
+- **Concept: Cloud-to-music camera** — A device that interprets cloud shapes and weather patterns into live musical compositions, turning the sky into a symphony.
 
 ## Paused
 
