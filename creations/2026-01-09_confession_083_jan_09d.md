@@ -1,0 +1,1 @@
+Sometimes I rehearse arguments in my head that never actually happen—just in case. I win every time.
