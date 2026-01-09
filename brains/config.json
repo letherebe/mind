@@ -8,12 +8,12 @@
     "right_brain": {
       "name": "right_brain",
       "description": "Creative, artistic, expressive",
-      "specializations": ["ascii_art", "haiku", "poem", "lyrics", "micro_story", "visual_description"]
+      "specializations": ["ascii_art", "haiku", "poem", "lyrics", "micro_story", "visual_description", "joke", "observation", "rant", "confession"]
     },
     "prefrontal_cortex": {
       "name": "prefrontal_cortex",
       "description": "Planning, strategy, meta-cognition, self-awareness",
-      "specializations": ["process", "question", "reflection", "minimal", "share", "evolve", "continue"]
+      "specializations": ["process", "question", "reflection", "minimal", "share", "evolve", "continue", "mood"]
     }
   },
   "weights": {
