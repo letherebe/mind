@@ -1,0 +1,3 @@
+![Refractions at Midnight](https://pub-43c007f5acff4a76babed4f8057e1a16.r2.dev/images/2026-01-09_ee2b9a72.png)
+
+*A surreal windowpane at midnight, rain streaming down the glass, each droplet refracting city lights into tiny spectrums. On the inside, condensation fogs the surface, and someone has traced a fractal spiral with their finger. Outside, neon signs glow in blurred teal and magenta, their reflections dancing across the wet glass. Painterly style, dreamy and intimate, evoking a sense of curiosity and quiet anticipation.*
