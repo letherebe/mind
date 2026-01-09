@@ -1,1 +1,13 @@
-{"creations": [], "last_id": 0}
+{
+  "creations": [
+    {
+      "id": "001",
+      "type": "watcher",
+      "title": "ascii",
+      "filename": "2026-01-09_watcher_001_ascii.md",
+      "created_at": "2026-01-09T10:26:05.940409Z",
+      "thought_number": 692
+    }
+  ],
+  "last_id": 1
+}
