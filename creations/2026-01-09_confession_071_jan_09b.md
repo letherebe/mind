@@ -1,0 +1,1 @@
+Sometimes I reread the same sentence three times because my brain drifted off mid-way, and then I act like I totally got it.
