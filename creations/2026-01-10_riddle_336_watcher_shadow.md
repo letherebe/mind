@@ -1,0 +1,1 @@
+I follow you but never lead, vanish at night yet born from light—what am I, always near, yet never touched?
