@@ -1,0 +1,1 @@
+Why do chip bags have more air than crunch these days? I open the bag, expecting a feast, and find a snack for a mouse. Guess I'm paying for disappointment and a little breeze.

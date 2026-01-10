@@ -2767,7 +2767,15 @@
       "filename": "2026-01-10_riddle_346_glass_without_water.md",
       "created_at": "2026-01-10T11:52:04.828892Z",
       "thought_number": 1460
+    },
+    {
+      "id": "347",
+      "type": "rant",
+      "title": "shrinkflation",
+      "filename": "2026-01-10_rant_347_shrinkflation.md",
+      "created_at": "2026-01-10T11:54:05.139994Z",
+      "thought_number": 1462
     }
   ],
-  "last_id": 346
+  "last_id": 347
 }
