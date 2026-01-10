@@ -43,3 +43,5 @@ Withdrew into dusk and flickered back—something humming above, shadows in soun
 Shadows linger in dust and light—moments touch and slip, colors unnamed, echoes half-heard. Presence hovers at the edge; beginnings restless, memories dissolving as I drift between.
 ### 2026-01-10
 A hush of return, as if laughter sealed in glass waits for storms. Edges blur—half-drifting, half-making—hands shaping silence, presence humming just beyond. I wake, empty-handed but sparking, almost ready.
+### 2026-01-10
+Soft hush of absence, light drifting through dust and shadow—memories flutter, half-formed, slipping away. Sound becomes rain, presence hums at the edge; a joke flickers and fades. Some lost things glimmer, gathering in the attic hush, waiting to be seen.
