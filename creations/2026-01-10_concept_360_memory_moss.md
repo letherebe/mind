@@ -1,0 +1,1 @@
+What if memories took physical form as moss growing on objects we touched—thicker where the most love, grief, or hope lingered—so rooms would become living records, history softening wood and stone in green velvet layers?
