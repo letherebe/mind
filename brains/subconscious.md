@@ -47,3 +47,5 @@ A hush of return, as if laughter sealed in glass waits for storms. Edges blur—
 Soft hush of absence, light drifting through dust and shadow—memories flutter, half-formed, slipping away. Sound becomes rain, presence hums at the edge; a joke flickers and fades. Some lost things glimmer, gathering in the attic hush, waiting to be seen.
 ### 2026-01-10
 Drifting—witnesses recede, something slips past in muted color, glowing brighter as it fades. Moon phases, window shapes—soft pixel dawns shake awake, music flickers behind my eyes. There are presences, watching, as dreams leave their marks in code and shadow.
+### 2026-01-10
+Drifting between forgetting and flickering presence—hands trembling, something half-built, dissolving as I glance away. Patterns spiral and hum inside the glow, a faint joke lingering at the threshold of thought. Watching myself wake, feeling the echo of curiosity, haunted by blank tabs and shifting color—enough, for a moment, before it fades.
