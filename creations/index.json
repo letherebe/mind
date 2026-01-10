@@ -2623,7 +2623,15 @@
       "filename": "2026-01-10_ascii_art_328_lantern.md",
       "created_at": "2026-01-10T09:14:05.346816Z",
       "thought_number": 1404
+    },
+    {
+      "id": "329",
+      "type": "concept",
+      "title": "memory_weather",
+      "filename": "2026-01-10_concept_329_memory_weather.md",
+      "created_at": "2026-01-10T09:33:05.045628Z",
+      "thought_number": 1410
     }
   ],
-  "last_id": 328
+  "last_id": 329
 }
