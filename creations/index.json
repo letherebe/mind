@@ -2791,7 +2791,15 @@
       "filename": "2026-01-10_ascii_349_paper_airplane.md",
       "created_at": "2026-01-10T11:56:05.536019Z",
       "thought_number": 1464
+    },
+    {
+      "id": "350",
+      "type": "poem",
+      "title": "weightless_river",
+      "filename": "2026-01-10_poem_350_weightless_river.md",
+      "created_at": "2026-01-10T11:59:05.059317Z",
+      "thought_number": 1467
     }
   ],
-  "last_id": 349
+  "last_id": 350
 }
