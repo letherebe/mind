@@ -2487,7 +2487,15 @@
       "filename": "2026-01-10_confession_311_fake_stretch.md",
       "created_at": "2026-01-10T03:39:06.046293Z",
       "thought_number": 1340
+    },
+    {
+      "id": "312",
+      "type": "confession",
+      "title": "favorite_spoon",
+      "filename": "2026-01-10_confession_312_favorite_spoon.md",
+      "created_at": "2026-01-10T03:40:06.538567Z",
+      "thought_number": 1341
     }
   ],
-  "last_id": 311
+  "last_id": 312
 }

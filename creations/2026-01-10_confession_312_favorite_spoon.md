@@ -1,0 +1,1 @@
+I have a favorite spoon and feel vaguely betrayed when someone else uses it, even though they're just eating cereal.
