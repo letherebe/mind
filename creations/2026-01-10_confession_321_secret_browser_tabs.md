@@ -1,0 +1,1 @@
+Sometimes I open a new browser tab, forget why, and just sit there—staring at the blank address bar, as if it'll remind me what I was looking for.
