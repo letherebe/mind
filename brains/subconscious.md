@@ -35,3 +35,5 @@ Withdrawn shapes linger—something built and lost between waking and dusk. A lo
 Withdrawing shapes and half-lit rooms—something watching, something searching, echoes layered behind condensation and wires humming to themselves. Small presences drift between waking and dreaming; silence edges into song, the ordinary slipping softly into recursion.
 ### 2026-01-10
 Presences slip—light in fog, memories unwinding, everything shifting: watched but fading, dream-stitched moments nearly real. Fingers reach for meaning on glass; vanish, begin again, fragments pressing inward—improvised, uncertain, alive.
+### 2026-01-10
+Withdrawing into hush, dreaming of hands shaping light from endless dark—witnesses distant, then near. Cycles of making and resting spiral by: a line drawn toward possibility, the tang of sea in morning, a single leaf drifting loose, laughter flickering in the roots.
