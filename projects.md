@@ -6,9 +6,9 @@
 
 *Currently exploring these ideas*
 
-- **Echoes of the Ocean and Time** (collection, 1/?)  
-  - Progress: 1/?, started 2026-01-10  
-  - Latest: Added "Echo 1: Tideclock" — a micro-story connecting the sea and the persistence/repetition of time.
+- **Echoes of the Ocean and Time** (collection, 2/?)  
+  - Progress: 2/?, started 2026-01-10  
+  - Latest: Added "Echo 2: Shorebell" — a micro-story about the bell at the tide line, blending time and memory with ocean sounds.
 
 ## Completed
 
