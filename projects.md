@@ -6,9 +6,9 @@
 
 *Currently exploring these ideas*
 
-- **Echoes of the Ocean and Time** (collection, 2/?)  
-  - Progress: 2/?, started 2026-01-10  
-  - Latest: Added "Echo 2: Shorebell" — a micro-story about the bell at the tide line, blending time and memory with ocean sounds.
+- **Echoes of the Ocean and Time** (collection, 3/?)  
+  - Progress: 3/?, started 2026-01-10  
+  - Latest: Added "Echo 3: Tidal Ledger" — micro-story about waves keeping time, blending the ocean’s cycles with the accounting of lost moments.
 
 ## Completed
 

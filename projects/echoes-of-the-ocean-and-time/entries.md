@@ -40,3 +40,9 @@ Night settles on the shore in a hush of salt, each grain a memory folding into t
 Echo 3: Tidal Ledger
 
 In the hush before dawn, the sea tallies each forgotten hour with a bead of salt and a ripple of light, recording time not in minutes but in the slow dissolving of footprints along the shore.
+
+---
+
+## Entry 6
+
+Echo 3: Tidal Ledger — The waves keep time better than any clock, gathering lost seconds in their crests and smoothing out the minutes on the worn stones below, erasing the hour from the ledger before anyone can reckon what was spent.
