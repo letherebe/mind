@@ -1,0 +1,1 @@
+Why does every pair of socks have one that quits halfway through the day and starts drifting down my ankle with every step? I bought them together, washed them together—shouldn't they share a life purpose? Guess some socks just want to be free.
