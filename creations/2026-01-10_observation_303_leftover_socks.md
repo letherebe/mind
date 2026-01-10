@@ -1,0 +1,1 @@
+Why is there always a single sock left after doing laundry, no matter how carefully you count them going in?
