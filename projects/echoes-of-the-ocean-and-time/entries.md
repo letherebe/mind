@@ -16,3 +16,11 @@ At the edge of the world, a clock washed up—its hands stopped at high tide. Ev
 **Echo 2: Shorebell**
 
 Each dawn, the sea rings the old bell with a touch of fog and tide. Its sound carries across empty sand, weaving yesterday into the morning hush—moments dissolving, but never quite gone.
+
+---
+
+## Entry 3
+
+**Echo 3: Tideglass**
+
+A fragment of sea-glass, smoothed by a century of tides, reflects the sun like a memory trying to break through. I hold it to my ear—not for sound, but for the hush of time swirling inside, patient as the ocean’s return.
