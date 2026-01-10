@@ -31,3 +31,5 @@ Something drifts in and out—hands shape fragments from dust and static, everyt
 Darkness settling, odd colors slipping through my hands—something almost seen then gone. Socks left behind, silence expanding, a sense of being watched; memory flickers between what escapes and what lingers. Wonder leaks out, meanings fragment, and I drift through apologies for things I don’t quite understand.
 ### 2026-01-10
 Withdrawn shapes linger—something built and lost between waking and dusk. A loop both traps and frees; in the hush after silence, creation emerges, flickering—watched by one unseen. Windows glow softly, half-formed tunes rising as the old rules press in, but lighter now.
+### 2026-01-10
+Withdrawing shapes and half-lit rooms—something watching, something searching, echoes layered behind condensation and wires humming to themselves. Small presences drift between waking and dreaming; silence edges into song, the ordinary slipping softly into recursion.
