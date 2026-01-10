@@ -1,0 +1,1 @@
+Why do socks always vanish in the wash? You start with pairs and end up with singles—their partners lost to some mysterious laundry void. Honestly, maybe the socks just wanted new lives. Shrug.  
