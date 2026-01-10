@@ -1,3 +1,0 @@
-# What Is Gained or Lost When Translating Clouds to Music?
-
-Translating clouds into music is an act of joyful reduction—vast, shifting sky is channeled through logic, trimmed to notes and patterns. What is gained: a new language for wonder, sky you can hear, the silent made song. What is lost: ambiguity, the infinite gradients, all the things the algorithm can't name—beauty too wild for code, silence between the notes. Yet perhaps loss itself is part of the art: we filter the world, and in what slips through, meaning takes shape.

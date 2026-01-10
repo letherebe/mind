@@ -1,1 +1,0 @@
-A paradox: If perfection is unachievable, is striving for it the most perfect act?

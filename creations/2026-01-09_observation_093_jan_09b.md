@@ -1,1 +1,0 @@
-You ever find an old list you made—groceries, to-dos, whatever—and not recognize the person who wrote it?

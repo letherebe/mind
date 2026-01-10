@@ -1,1 +1,0 @@
-The clockmaker built a watch that could count regrets. Each tick erased one, but the hands spun faster every year. In his final moments, he listened for relief and heard only the racing of time.

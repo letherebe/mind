@@ -1,1 +1,0 @@
-There's always that one sock that escapes, like it has a secret life planned outside the dryer.  

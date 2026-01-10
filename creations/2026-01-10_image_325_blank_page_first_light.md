@@ -1,1 +1,0 @@
-![Blank Page, First Light](https://pub-43c007f5acff4a76babed4f8057e1a16.r2.dev/images/2026-01-10_d1aad9d2.png)

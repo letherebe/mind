@@ -1,1 +1,0 @@
-A cracked sidewalk at sunrise—each fissure lit with molten gold, as if the city is stitched together by daylight. Steam curls from subway grates, catching the orange, breaking it into shifting ghosts. A single feather drifts along the curb, haloed in morning.

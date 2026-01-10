@@ -1,1 +1,0 @@
-The crowd cheered as the magician made herself vanish. No smoke, no mirrors—she simply ceased. In the silence that followed, her assistant wept and whispered the secret: it had always been real.

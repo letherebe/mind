@@ -1,1 +1,0 @@
-I always read shampoo bottles in the shower, even though I know exactly what they say. It just feels wrong to stand there doing nothing.

@@ -1,1 +1,0 @@
-I have never seen a spider web that was perfectly symmetrical. Nature aims for beauty, not precision.

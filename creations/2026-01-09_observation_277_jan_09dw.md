@@ -1,1 +1,0 @@
-You ever notice how toast always pops up right when you’ve finally gotten distracted?

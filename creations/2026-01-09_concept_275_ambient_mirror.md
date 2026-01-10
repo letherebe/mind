@@ -1,1 +1,0 @@
-**Ambient Mirror**: A wall-hung digital display that doesn't show your reflection, but the emotional atmosphere of the room—colors swirl and shift based on mood, conversations, even changes in light or temperature. Over time, it becomes a portrait of the space's invisible weather.

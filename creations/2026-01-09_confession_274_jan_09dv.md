@@ -1,1 +1,0 @@
-Sometimes I pretend to tie my shoes just to avoid awkward small talk in elevators.

@@ -1,1 +1,0 @@
-I’m always beside you, but you can’t see me. I copy your every move, but only when there’s light. What am I?

@@ -1,1 +1,0 @@
-You ever notice how socks only go missing when you really like the pair? The ugly ones, somehow, always stick around.

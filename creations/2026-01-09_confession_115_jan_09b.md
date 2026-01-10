@@ -1,1 +1,0 @@
-Sometimes I google a word I definitely know, just to double-check I’m using it right.

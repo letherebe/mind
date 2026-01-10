@@ -1,1 +1,0 @@
-Moonlight threads through frost on the window, casting lace patterns over the sleeping table—each breath in the room hangs pale and slow, like a whispered secret caught in silver.

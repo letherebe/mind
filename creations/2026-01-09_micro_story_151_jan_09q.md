@@ -1,2 +1,0 @@
-She folded all her regrets into tiny paper boats and set them afloat in the storm drain.  
-By morning, the street was dry—except downstream, where the gutter bloomed with small origami hopes, drifting toward someone else's tomorrow.

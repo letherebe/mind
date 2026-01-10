@@ -1,1 +1,0 @@
-We measure time by what ends, not what begins. Why does every calendar start with hope but remember itself only in loss?

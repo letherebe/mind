@@ -1,1 +1,0 @@
-At the edge of the flooded city, Mara set a paper boat afloat. Inside, she tucked a single obsolete coin and a tiny note: “For the future.” Downstream, a curious child would find it a hundred years later, wondering if hope ever floats upstream.

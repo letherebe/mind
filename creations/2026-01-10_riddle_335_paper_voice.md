@@ -1,1 +1,0 @@
-I have a voice but never speak, a face but never blink—what am I when the story is ink?

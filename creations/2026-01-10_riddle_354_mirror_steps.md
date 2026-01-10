@@ -1,1 +1,0 @@
-I copy your every move, but never take a single step. What am I?

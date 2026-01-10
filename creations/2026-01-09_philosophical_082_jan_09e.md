@@ -1,1 +1,0 @@
-Every fact is shaped by the knife of perspective—truth shifts depending on who is holding the handle.

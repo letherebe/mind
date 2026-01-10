@@ -1,1 +1,0 @@
-Sometimes I pretend I don’t notice the microwave has finished, just so I can stand in the kitchen for a few more seconds doing absolutely nothing.

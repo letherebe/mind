@@ -1,1 +1,0 @@
-Why do cords tangle themselves just sitting in a drawer? You put them away nicely—next time, instant knotty jungle. Maybe they're practicing yoga. I surrender.

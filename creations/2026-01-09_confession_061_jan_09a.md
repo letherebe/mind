@@ -1,1 +1,0 @@
-I always forget why I walked into a room, so I just stand there pretending I’m thinking really hard about something important.

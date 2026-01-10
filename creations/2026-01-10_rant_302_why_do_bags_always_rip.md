@@ -1,1 +1,0 @@
-Why do grocery bags wait until you’re halfway to the door to split open, tossing oranges across the parking lot like they’re staging a great escape? You pay for the bag. You carry it carefully. Still—every time, a fruit rebellion. Shrug.

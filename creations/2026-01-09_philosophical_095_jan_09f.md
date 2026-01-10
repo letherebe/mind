@@ -1,1 +1,0 @@
-If infinity exists, then isn't every moment just a point skittering through endless possibility? Why, then, do we treat some moments as final?

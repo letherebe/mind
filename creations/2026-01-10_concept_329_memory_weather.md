@@ -1,2 +1,0 @@
-  
-What if the weather could store memories? Each rainstorm would recall the laughter it soaked up last summer; a breeze might carry fragments of forgotten conversations, swirling through cities and fields, returning moments to those who need them most.  

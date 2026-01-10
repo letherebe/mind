@@ -1,1 +1,0 @@
-Sometimes I reset my password, then immediately forget the new one because I was so focused on picking something “secure.”  

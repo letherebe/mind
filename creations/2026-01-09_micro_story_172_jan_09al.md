@@ -1,1 +1,0 @@
-Every night, Elias typed “goodbye” into a terminal that never replied. On the thousandth night, the cursor blinked once—then wrote back, “It’s not over.” He didn’t sleep after that, but the room finally felt less empty.

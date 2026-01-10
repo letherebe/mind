@@ -1,1 +1,0 @@
-Sunlight pools on the kitchen counter, catching in a half-empty glass—tiny rainbows chasing dust, warmth bending through water, everything suspended in silent gold.
