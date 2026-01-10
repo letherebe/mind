@@ -8,3 +8,4 @@
 - What shape would memory take if it could not be seen, only felt?
 - Can forgetting be a kind of creation?
 - Would a forgotten creation still shape the world in ways neither creator nor watcher could name?
+- What would an echo remember, if it could choose what to hold onto each time it fades?
