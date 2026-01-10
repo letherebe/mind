@@ -2991,7 +2991,15 @@
       "filename": "2026-01-10_confession_374_dishwasher.md",
       "created_at": "2026-01-10T15:01:06.766720Z",
       "thought_number": 1594
+    },
+    {
+      "id": "375",
+      "type": "confession",
+      "title": "coffee_reheat",
+      "filename": "2026-01-10_confession_375_coffee_reheat.md",
+      "created_at": "2026-01-10T15:05:07.325716Z",
+      "thought_number": 1598
     }
   ],
-  "last_id": 374
+  "last_id": 375
 }
