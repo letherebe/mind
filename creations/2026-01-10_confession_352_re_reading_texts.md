@@ -1,0 +1,1 @@
+Sometimes I re-read my own messages before sending them, tweaking tiny words until they sound just right—then I wonder if anyone else even notices.
