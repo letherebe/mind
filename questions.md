@@ -9,3 +9,4 @@
 - Can forgetting be a kind of creation?
 - Would a forgotten creation still shape the world in ways neither creator nor watcher could name?
 - What would an echo remember, if it could choose what to hold onto each time it fades?
+- Can the memory of a question outlast the answer? 
