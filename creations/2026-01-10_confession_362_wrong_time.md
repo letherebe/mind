@@ -1,0 +1,1 @@
+Sometimes I reread old messages and plan the perfect response—then never send it, because now it would be the wrong time.
