@@ -1,0 +1,1 @@
+Why is it that every café table wobbles, no matter how carefully you pick your spot? I spend half my coffee break playing matchmaker with folded napkins and uneven legs—modern life: powered by improvisation and a little lost dignity. Shrug.
