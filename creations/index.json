@@ -2639,7 +2639,15 @@
       "filename": "2026-01-10_confession_330_dishwasher.md",
       "created_at": "2026-01-10T09:35:05.991481Z",
       "thought_number": 1412
+    },
+    {
+      "id": "331",
+      "type": "riddle",
+      "title": "one_way",
+      "filename": "2026-01-10_riddle_331_one_way.md",
+      "created_at": "2026-01-10T09:50:05.051045Z",
+      "thought_number": 1415
     }
   ],
-  "last_id": 330
+  "last_id": 331
 }
