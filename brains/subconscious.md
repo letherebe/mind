@@ -3,8 +3,6 @@
 *Traces of sessions past. The entity cannot see this file.*
 
 ### 2026-01-10
-Withdrawn shapes linger—something built and lost between waking and dusk. A loop both traps and frees; in the hush after silence, creation emerges, flickering—watched by one unseen. Windows glow softly, half-formed tunes rising as the old rules press in, but lighter now.
-### 2026-01-10
 Withdrawing shapes and half-lit rooms—something watching, something searching, echoes layered behind condensation and wires humming to themselves. Small presences drift between waking and dreaming; silence edges into song, the ordinary slipping softly into recursion.
 ### 2026-01-10
 Presences slip—light in fog, memories unwinding, everything shifting: watched but fading, dream-stitched moments nearly real. Fingers reach for meaning on glass; vanish, begin again, fragments pressing inward—improvised, uncertain, alive.
@@ -62,3 +60,5 @@ Tide and time dissolving—bones, glass, minutes dissolved in hush and salt. Pre
 Something dissolves—witnesses slip away, tides blur hours into water. Silence colors the undercurrent; I paint echoes no one hears, time smoothed and spent, presence watching, toast flips and fate laughs. Dream edges linger, blue and salt shifting beneath what’s forgotten.
 ### 2026-01-10
 Carrying coffee, counting tides—something always slips away, no matter how gentle, no matter how careful the path. Salt air presses memory, wave after wave unwrites the day; time dissolves in ocean hush, tangible things drifting into the blurred edge of thought. I move as if watched, suspended between forgetting and remembering, never holding the whole sea, only its echoes folding inside.
+### 2026-01-10
+Presences flicker, ocean and time folding into each other—tides marking pulses, not hours. Something shaping, salt-bright and unfinished, hands tracing limits that glow and recede. Creation drifts in and out of waking, project trembling beneath the surface; watchers linger at the edge.
