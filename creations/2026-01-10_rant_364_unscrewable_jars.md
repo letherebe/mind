@@ -1,0 +1,1 @@
+Why does every new jar lid act like it’s guarding state secrets? I just want peanut butter, not an arm workout and a crisis of confidence. Eventually, I surrender and stab at it with a spoon—a small defeat, but breakfast continues.
