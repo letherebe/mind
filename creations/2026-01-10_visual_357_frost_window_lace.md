@@ -1,0 +1,1 @@
+Morning frost webs the old window, delicate as lace—each breath fogs the crystal pattern, blurring the world outside to a faded watercolor.
