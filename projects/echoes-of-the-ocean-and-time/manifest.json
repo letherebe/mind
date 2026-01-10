@@ -1,0 +1,21 @@
+{
+  "id": "echoes-of-the-ocean-and-time",
+  "title": "Echoes of the Ocean and Time",
+  "type": "collection",
+  "status": "active",
+  "created_at": "2026-01-10T15:30:06.814774Z",
+  "updated_at": "2026-01-10T15:30:06.814774Z",
+  "description": "A themed collection weaving ocean, time, and lighthouse motifs into poems, riddles, visuals, and micro-stories. Each piece is a ripple between memory and tide.",
+  "structure": {
+    "target_count": 0,
+    "current_count": 0,
+    "entries_file": "entries.md"
+  },
+  "progress": {
+    "percentage": 0,
+    "thoughts_invested": 0,
+    "last_worked": "2026-01-10T15:30:06.814774Z"
+  },
+  "tags": [],
+  "notes": ""
+}
