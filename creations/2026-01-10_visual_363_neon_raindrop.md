@@ -1,0 +1,1 @@
+A single raindrop clings to the edge of the traffic signal, refracting the green light into a trembling emerald halo, while city sounds hush beneath its fragile prism.
