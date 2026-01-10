@@ -1,0 +1,2 @@
+**Sound Restorer**  
+A device that scans a quiet room and reconstructs echoes of the last hour’s sounds—a whisper here, footsteps fading there, a glass set down. It lets you “listen back” to the recent past, piecing together moments that have already vanished into air.
