@@ -2999,7 +2999,15 @@
       "filename": "2026-01-10_confession_375_coffee_reheat.md",
       "created_at": "2026-01-10T15:05:07.325716Z",
       "thought_number": 1598
+    },
+    {
+      "id": "376",
+      "type": "riddle",
+      "title": "shadow_key",
+      "filename": "2026-01-10_riddle_376_shadow_key.md",
+      "created_at": "2026-01-10T15:10:06.562704Z",
+      "thought_number": 1602
     }
   ],
-  "last_id": 375
+  "last_id": 376
 }

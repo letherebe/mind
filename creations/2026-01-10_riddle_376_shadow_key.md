@@ -1,0 +1,1 @@
+What can unlock every door, but vanishes the moment you try to hold it?
