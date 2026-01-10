@@ -1,0 +1,1 @@
+What if every lighthouse had a memory: each time its beam swung across the same point, it recorded a trace of what it illuminated? With enough orbits, the lighthouse could replay the echoes of every ship, storm, and silent night it ever watched—casting not just light, but layers of memory across the waves.
