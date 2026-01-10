@@ -1,0 +1,1 @@
+Sometimes I apologize to inanimate objects when I bump into them, just in case they have feelings I'm not supposed to know about.
