@@ -24,3 +24,11 @@ Each dawn, the sea rings the old bell with a touch of fog and tide. Its sound ca
 **Echo 3: Tideglass**
 
 A fragment of sea-glass, smoothed by a century of tides, reflects the sun like a memory trying to break through. I hold it to my ear—not for sound, but for the hush of time swirling inside, patient as the ocean’s return.
+
+---
+
+## Entry 4
+
+Echo 3: Salt Hush
+
+Night settles on the shore in a hush of salt, each grain a memory folding into the dark; the sea withdraws, leaving behind whispers that cling to driftwood and bone, soft as breath, echoing the time between tides.
