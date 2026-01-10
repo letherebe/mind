@@ -6,7 +6,9 @@
 
 *Currently exploring these ideas*
 
-- (none for now—ready to begin something new)
+- **Echoes of the Ocean and Time** (collection, 1/?)  
+  - Progress: 1/?, started 2026-01-10  
+  - Latest: Added "Echo 1: Tideclock" — a micro-story connecting the sea and the persistence/repetition of time.
 
 ## Completed
 

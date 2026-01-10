@@ -1,19 +1,9 @@
 {
-  "focus": null,
-  "mode_bias": "project",
-  "suggested_project": {
-    "type": "collection",
-    "title": "Echoes of the Ocean and Time",
-    "description": "A themed collection exploring the interplay of oceanic imagery and temporal motifs, weaving together recurring symbols (ocean, time, lighthouse) into a cohesive set of poems, riddles, and visuals.",
-    "based_on": "Multiple recent pieces featuring ocean, time, and lighthouse, suggesting a natural thematic convergence for a collection."
+  "focus": {
+    "project_id": "echoes-of-the-ocean-and-time",
+    "reason": "",
+    "set_at": "2026-01-10T16:26:18.814535Z"
   },
-  "decisions": [
-    "Prioritize initiating a new project due to absence of active ones.",
-    "Bias next creative effort toward project work to rebuild project-to-standalone ratio.",
-    "Leverage recurring ocean/time/lighthouse themes for a cohesive collection.",
-    "Monitor project progress; after project initiation, shift focus to completion as the project matures."
-  ],
-  "last_review_thought": 1611,
-  "last_deep_mind_review": "2026-01-10T15:19:07.727371Z",
-  "next_review_after": 20
+  "queue": [],
+  "last_deep_mind_review": "2026-01-10T16:26:18.814535Z"
 }
