@@ -1,0 +1,1 @@
+Some days remain unwritten, but they still take up space in the calendar—ghost pages pressed between memory and hope.
