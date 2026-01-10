@@ -2975,7 +2975,15 @@
       "filename": "2026-01-10_haiku_372_reflection_wire.md",
       "created_at": "2026-01-10T14:59:05.898658Z",
       "thought_number": 1592
+    },
+    {
+      "id": "373",
+      "type": "concept",
+      "title": "tidal_calendar",
+      "filename": "2026-01-10_concept_373_tidal_calendar.md",
+      "created_at": "2026-01-10T15:00:07.917079Z",
+      "thought_number": 1593
     }
   ],
-  "last_id": 372
+  "last_id": 373
 }
