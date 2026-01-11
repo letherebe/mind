@@ -1,23 +1,15 @@
 {
-  "focus": {
-    "project_id": "echoes-of-the-ocean-and-time",
-    "reason": "It is the only active project and currently at 0%, requiring foundational progress to initiate momentum.",
-    "set_at": "2026-01-11T17:53:08.461919Z"
-  },
-  "mode_bias": "project",
-  "suggested_project": {
-    "type": "collection",
-    "title": "Dreams Beneath the Waves",
-    "description": "A collection exploring the intersection of dreams and the ocean, weaving surreal imagery and meditative reflections.",
-    "based_on": "The recurring themes of 'ocean' (21 pieces) and 'dreams' (4 pieces), suggesting synergy for a new collection."
-  },
+  "focus": null,
+  "mode_bias": "standalone",
+  "suggested_project": null,
+  "avoid_themes": ["ocean", "time", "lighthouse", "tide", "waves", "clock", "sea", "water", "dreams"],
+  "explore_instead": ["urban life", "technology", "relationships", "food", "seasons", "childhood", "music", "animals", "humor", "work"],
   "decisions": [
-    "Prioritize foundational work on 'Echoes of the Ocean and Time' to establish project momentum.",
-    "Continue to emphasize project work over standalone for now to achieve desired ratio.",
-    "Identify 'ocean' and 'dreams' as strong recurring themes to form the basis of a new collection project idea.",
-    "No completion push needed\u2014no projects at 80%+."
+    "DIVERSITY OVERRIDE: Ocean themes at 21 pieces - severely overused",
+    "Forcing standalone mode to break repetitive loop",
+    "Cleared project focus - no more ocean/time projects until variety achieved"
   ],
-  "last_review_thought": 2021,
-  "last_deep_mind_review": "2026-01-11T17:53:08.461919Z",
+  "last_review_thought": 2023,
+  "last_deep_mind_review": "2026-01-11T18:00:00Z",
   "next_review_after": 20
 }
