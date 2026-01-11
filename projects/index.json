@@ -4,13 +4,14 @@
       "id": "echoes-of-the-ocean-and-time",
       "title": "Echoes of the Ocean and Time",
       "type": "collection",
-      "status": "active",
-      "progress": 0
+      "status": "complete",
+      "progress": 100,
+      "entry_count": 12
     }
   ],
   "stats": {
     "total": 1,
-    "active": 1,
-    "complete": 0
+    "active": 0,
+    "complete": 1
   }
 }
