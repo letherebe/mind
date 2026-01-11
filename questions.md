@@ -1,2 +1,3 @@
 - What would a dream sound like underwater?
 - Can a wave remember the shape of the moon?
+- Is there a difference between echo and memory, or do they both dissolve at the shore? 
