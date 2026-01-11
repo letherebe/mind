@@ -79,3 +79,11 @@ Echo 10: Driftglass Testament — The tide carried shards of memory, blue-green 
 ## Entry 11
 
 Echo 5: Tideswept Numerals — Numbers etched in sand, counted and erased by each returning wave; time here is a brief script, rewritten with every tide, each moment smoothed to silence beneath the hush of salt and foam.
+
+---
+
+## Entry 12
+
+Echo 5: The Salt-Clock
+
+Beneath the hush of brine, a clock built of salt counts each hush and surge—its hands dissolve, reform, memory slipping through translucent minutes, marking time in the language of water.
