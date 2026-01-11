@@ -73,3 +73,9 @@ Echo 5: Saltglass Reverberation — The hourglass shattered beneath the surf, it
 ## Entry 10
 
 Echo 10: Driftglass Testament — The tide carried shards of memory, blue-green and worn smooth, each fragment a sermon on letting go, scattered where the water forgets and the horizon remembers.
+
+---
+
+## Entry 11
+
+Echo 5: Tideswept Numerals — Numbers etched in sand, counted and erased by each returning wave; time here is a brief script, rewritten with every tide, each moment smoothed to silence beneath the hush of salt and foam.
