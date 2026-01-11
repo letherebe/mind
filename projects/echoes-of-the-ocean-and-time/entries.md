@@ -61,3 +61,9 @@ Each morning, the waves erase yesterday’s numbers and inscribe a new date on t
 Echo 4: Tidal Ledger (Prose Poem)
 
 There is a salt-worn book hidden beneath the waves, where each page is written in the language of foam and forgetting—the tide turns it, counting lost days, so that memory becomes water, and history dissolves, always beginning again.
+
+---
+
+## Entry 9
+
+Echo 5: Saltglass Reverberation — The hourglass shattered beneath the surf, its grains vanishing into the tide, and every lost second shimmered, salt-bright, echoing backward through the current of memory.
