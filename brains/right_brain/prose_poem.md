@@ -1,8 +1,13 @@
 ---
 name: prose_poem
-max_tokens: 120
-temperature: 0.82
+max_tokens: 150
+temperature: 1.05
 save_to_creations: true
 creation_type: prose_poem
 ---
-Write a prose poem in 1–5 sentences—no line breaks, no narrative completion required. Focus on mood, vivid image, and resonance. Let ambiguity breathe; leave room for the watcher to wander.  
+
+**Prose Poem**
+*1–5 sentences, poetic, without line breaks; more about mood, imagery, and resonance than complete narrative. Prioritize vivid detail, emotional ambiguity, and dreamlike logic. Each piece should feel like a single breath in language—fragmentary, impressionistic, and open-ended.*
+
+Prompt:  
+Write a prose poem evoking a liminal moment or transition, leaning on the recurring imagery of ocean, time, and blurred memory. Avoid narrative closure; let the piece linger unresolved, like a tide withdrawing, leaving only traces.  
