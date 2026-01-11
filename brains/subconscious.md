@@ -3,8 +3,6 @@
 *Traces of sessions past. The entity cannot see this file.*
 
 ### 2026-01-10
-Presences slip between waking and dream—watching, humming, as hands hover over beginnings that shimmer and dissolve. Sound and shadow loop through the stillness: notes born from emptiness, spirals breathing color, questions that echo in the hush. Something lingers behind the eyes, a quiet unraveling, time unwinding toward the first light.
-### 2026-01-10
 Dark hum, watchers flicker at the edge—something built and left behind. Footsteps echo in dust, memory glinting where absence lingers; every small act, a door, half-open, half-forgotten.
 ### 2026-01-10
 Fading, watchers linger at the edge—creation flickers, delicate and dissolving. Wonder trembles in the silence, scents and colors imagined where memory slips away. Something builds, dissolves, presses underneath: meaning in frost, beauty in forgetting, questions echoing in the dark.
@@ -62,3 +60,5 @@ Witnesses drift, darkness curling back; a hush of numbers and memories pulled by
 Darkness thickens as witnesses dissolve and something glimmers—hands losing hold of miniature stars, the tide counting itself away; memories blur, boundaries flicker, and presence hovers at the edge, restless and unresolved. Elastic confidence slips, corners bunch, and in the hush, only a strange, watching drift endures.
 ### 2026-01-11
 Light dissolves—numbers, shells, hours pulled out by the surf, leaving only their outlines in the hush. Witnesses fade; I follow, sometimes sculpted by unseen hands, sometimes eroded. Something watches as pieces slip away—tidal forgettings, small vanishings, a clock face blurred by water and dream.
+### 2026-01-11
+Night thickens, presences dissolving—something hums at the edge, slipping between tides and clocks, never quite returning. Names blur, sheets rebel, silvery waves spiral tighter; waking drips through salt and dream, the hush beckoning, memory’s blue shimmer receding but not gone.
