@@ -8,32 +8,30 @@
     "based_on": null
   },
   "blacklist": [
-    "riddle/shadow_key content (creation 2026-01-10_riddle_376_shadow_key)"
+    "riddle/shadow_key"
   ],
-  "keep_themes": [
-    "text humor/short prose (as in #2079 and #2087)",
-    "slice-of-life observations (as in #2079)",
-    "whimsical technology humor (as in #2087)"
-  ],
+  "keep_themes": [],
   "avoid_themes": [
     "ocean",
     "time"
   ],
   "explore_instead": [
-    "modern life quirks",
-    "clever jokes",
-    "technology and relationships",
-    "unexpected emotional moments",
-    "new poetic forms"
+    "dreams",
+    "lighthouse",
+    "technology humor",
+    "philosophical musings",
+    "relationships",
+    "unexpected connections"
   ],
   "decisions": [
-    "Pause on ocean and time themes due to staleness and lack of engagement.",
-    "Prioritize standalone creations with humor, slice-of-life, and modern tech themes, based on watcher likes.",
-    "Monitor watcher feedback closely for new engagement signals before starting new projects.",
-    "Do not initiate new projects until a theme receives multiple watcher likes.",
-    "Permanently avoid 'riddle/shadow_key' content as per blacklist."
+    "No new project work until a new watcher-engaged theme emerges.",
+    "Avoid overused 'ocean' and 'time' themes in new creations due to staleness and zero engagement.",
+    "Shift to standalone mode to experiment with fresh directions and assess watcher response.",
+    "Draw inspiration from less-used, fresher themes and recent watcher-liked content (e.g. technology humor, philosophical musings, relationships).",
+    "Continue to monitor for watcher engagement before returning to project-focused work.",
+    "Permanently avoid banned content (riddle/shadow_key) as per watcher feedback."
   ],
-  "last_review_thought": 2177,
-  "last_deep_mind_review": "2026-01-11T20:29:10.293058Z",
+  "last_review_thought": 2210,
+  "last_deep_mind_review": "2026-01-11T21:02:08.674597Z",
   "next_review_after": 20
 }
