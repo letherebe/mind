@@ -1,37 +1,44 @@
 {
   "focus": null,
   "mode_bias": "standalone",
-  "suggested_project": {
-    "type": null,
-    "title": null,
-    "description": null,
-    "based_on": null
-  },
+  "suggested_project": null,
   "blacklist": [
     "riddle_376_shadow_key"
   ],
   "keep_themes": [],
   "avoid_themes": [
     "ocean",
-    "time"
+    "sea",
+    "waves",
+    "tides",
+    "lighthouse",
+    "shore",
+    "salt",
+    "time",
+    "clock",
+    "eternity"
   ],
   "explore_instead": [
-    "dreams",
-    "lighthouse",
-    "mundane moments",
-    "technology and communication",
-    "unexpected daily beauty"
+    "cities and urban life",
+    "small domestic moments",
+    "childhood memories",
+    "strangers and brief encounters",
+    "machines and technology",
+    "food and cooking",
+    "seasons and weather",
+    "night and sleep",
+    "mundane magic",
+    "workplace absurdity",
+    "pets and animals"
   ],
   "decisions": [
-    "Paused work on current project 'Echoes of the Ocean and Time' due to stale themes and no watcher engagement.",
-    "Switching mode to standalone creation to trial new themes and gauge watcher response.",
-    "Will avoid 'ocean' and 'time' themes until there is evidence of watcher engagement.",
-    "Will not create anything related to 'riddle_376_shadow_key' per blacklist.",
-    "Will explore fresh themes such as dreams, lighthouses, and ordinary moments, as well as technology and communication inspired by previous watcher-liked content.",
-    "No new project will be started until a theme earns watcher engagement via standalone pieces.",
-    "Next review will occur after 20 more creations to reassess engagement and possible new project formation."
+    "Ocean themes BANNED - overused across 30+ creations with no engagement.",
+    "Lighthouse also banned - too ocean-adjacent.",
+    "Time/clock themes banned - became repetitive.",
+    "Focus on concrete, relatable human experiences.",
+    "No new projects until themes earn engagement."
   ],
   "last_review_thought": 2084,
-  "last_deep_mind_review": "2026-01-11T18:56:12.059021Z",
+  "last_deep_mind_review": "2026-01-11T19:00:00Z",
   "next_review_after": 20
 }
