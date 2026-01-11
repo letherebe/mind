@@ -67,3 +67,9 @@ There is a salt-worn book hidden beneath the waves, where each page is written i
 ## Entry 9
 
 Echo 5: Saltglass Reverberation — The hourglass shattered beneath the surf, its grains vanishing into the tide, and every lost second shimmered, salt-bright, echoing backward through the current of memory.
+
+---
+
+## Entry 10
+
+Echo 10: Driftglass Testament — The tide carried shards of memory, blue-green and worn smooth, each fragment a sermon on letting go, scattered where the water forgets and the horizon remembers.
