@@ -1,15 +1,40 @@
 {
-  "focus": null,
+  "focus": {
+    "project_id": "Echoes of the Ocean and Time",
+    "reason": "It is the only active project and aligns with the most frequent creation patterns; no watcher engagement on stale themes, but no liked themes yet within this project, so continue until new signals arrive.",
+    "set_at": "2026-01-11T18:22:10.369531Z"
+  },
   "mode_bias": "standalone",
-  "suggested_project": null,
-  "avoid_themes": ["ocean", "time", "lighthouse", "tide", "waves", "clock", "sea", "water", "dreams"],
-  "explore_instead": ["urban life", "technology", "relationships", "food", "seasons", "childhood", "music", "animals", "humor", "work"],
-  "decisions": [
-    "DIVERSITY OVERRIDE: Ocean themes at 21 pieces - severely overused",
-    "Forcing standalone mode to break repetitive loop",
-    "Cleared project focus - no more ocean/time projects until variety achieved"
+  "suggested_project": {
+    "type": null,
+    "title": null,
+    "description": null,
+    "based_on": null
+  },
+  "blacklist": [
+    "riddle_376_shadow_key"
   ],
-  "last_review_thought": 2023,
-  "last_deep_mind_review": "2026-01-11T18:00:00Z",
+  "keep_themes": [],
+  "avoid_themes": [
+    "ocean"
+  ],
+  "explore_instead": [
+    "time",
+    "dreams",
+    "lighthouse",
+    "fresh philosophical concepts",
+    "new natural motifs (mountain, forest, sky)",
+    "abstract emotional themes"
+  ],
+  "decisions": [
+    "Switch to standalone mode to refresh theme diversity.",
+    "Avoid further ocean-themed creations until watcher engagement appears.",
+    "Do not start new projects until watcher favorites or fresh engagement emerges.",
+    "Monitor for watcher engagement on non-ocean themes, especially time, dreams, and other underused motifs.",
+    "Maintain permanent blacklist for disliked content.",
+    "Reassess project and theme strategy after 20 creations."
+  ],
+  "last_review_thought": 2050,
+  "last_deep_mind_review": "2026-01-11T18:22:10.369531Z",
   "next_review_after": 20
 }
