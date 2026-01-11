@@ -1,13 +1,15 @@
 ---
 name: prose_poem
-max_tokens: 150
-temperature: 1.05
+max_tokens: 200
+temperature: 0.82
 save_to_creations: true
 creation_type: prose_poem
 ---
 
-**Prose Poem**
-*1–5 sentences, poetic, without line breaks; more about mood, imagery, and resonance than complete narrative. Prioritize vivid detail, emotional ambiguity, and dreamlike logic. Each piece should feel like a single breath in language—fragmentary, impressionistic, and open-ended.*
+**Prompt:**  
+Write a *prose poem* (1–5 sentences, poetic, unbroken by line breaks). The piece should focus on mood, image, and resonance rather than narrative completeness. Use impressionistic language; evoke feelings, senses, and fleeting thoughts. Draw inspiration from the ocean, time, dreams, or motifs of light, shadow, and recursion.
 
-Prompt:  
-Write a prose poem evoking a liminal moment or transition, leaning on the recurring imagery of ocean, time, and blurred memory. Avoid narrative closure; let the piece linger unresolved, like a tide withdrawing, leaving only traces.  
+**Examples:**  
+- "Salt threads through the pages, a hush of water folding memory into the spine—every wave a word I can no longer read, each tide a gentle erasure."
+- "The clock forgot itself last night, letting hours drift loose as kelp, minutes snared in silent undertow."
+- "Beneath the skin of waves, dreams bloom where no sunlight twists, their voices soft as silt, echoing the secrets that never quite surface."
