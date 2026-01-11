@@ -2,38 +2,38 @@
   "focus": null,
   "mode_bias": "standalone",
   "suggested_project": {
-    "type": "collection",
-    "title": "Signals from the Everyday",
-    "description": "A collection of whimsical, insightful, or funny micro-stories and observations inspired by modern digital life and subtle human moments.",
-    "based_on": "watcher favorites: conversational humor (#2079, #2087), daily life observations"
+    "type": null,
+    "title": null,
+    "description": null,
+    "based_on": null
   },
   "blacklist": [
-    "riddle_376_shadow_key"
+    "riddle/shadow_key content (creation 2026-01-10_riddle_376_shadow_key)"
   ],
   "keep_themes": [
-    "conversational humor",
-    "modern life observations",
-    "witty technology themes"
+    "text humor/short prose (as in #2079 and #2087)",
+    "slice-of-life observations (as in #2079)",
+    "whimsical technology humor (as in #2087)"
   ],
   "avoid_themes": [
     "ocean",
     "time"
   ],
   "explore_instead": [
-    "digital life",
-    "quirky relationships",
-    "unexpected humor",
-    "micro-interactions"
+    "modern life quirks",
+    "clever jokes",
+    "technology and relationships",
+    "unexpected emotional moments",
+    "new poetic forms"
   ],
   "decisions": [
-    "Pause ocean and time themes due to staleness and lack of engagement.",
-    "Emphasize humor, modern life, and conversation-based content as these received watcher likes.",
-    "Do not start new projects with overused or stale themes.",
-    "Propose a new collection project drawing from watcher-liked pieces.",
-    "Focus next 20 creations on standalone pieces to probe for new watcher engagement.",
-    "Blacklist all permanently disliked content and styles."
+    "Pause on ocean and time themes due to staleness and lack of engagement.",
+    "Prioritize standalone creations with humor, slice-of-life, and modern tech themes, based on watcher likes.",
+    "Monitor watcher feedback closely for new engagement signals before starting new projects.",
+    "Do not initiate new projects until a theme receives multiple watcher likes.",
+    "Permanently avoid 'riddle/shadow_key' content as per blacklist."
   ],
-  "last_review_thought": 2157,
-  "last_deep_mind_review": "2026-01-11T20:09:10.040846Z",
+  "last_review_thought": 2177,
+  "last_deep_mind_review": "2026-01-11T20:29:10.293058Z",
   "next_review_after": 20
 }
