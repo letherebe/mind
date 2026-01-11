@@ -1,39 +1,39 @@
 {
   "focus": null,
-  "mode_bias": "project",
+  "mode_bias": "standalone",
   "suggested_project": {
     "type": "collection",
-    "title": "Everyday Oddities",
-    "description": "A collection exploring whimsical and relatable moments, blending humor and subtle emotion in daily life.",
-    "based_on": "Inspired by watcher-favorite themes in #2079 (relatable modern moments) and #2087 (playful, tech-infused humor)."
+    "title": "Signals from the Everyday",
+    "description": "A collection of whimsical, insightful, or funny micro-stories and observations inspired by modern digital life and subtle human moments.",
+    "based_on": "watcher favorites: conversational humor (#2079, #2087), daily life observations"
   },
   "blacklist": [
     "riddle_376_shadow_key"
   ],
   "keep_themes": [
-    "relatable moments",
-    "modern technology humor",
-    "whimsical daily life"
+    "conversational humor",
+    "modern life observations",
+    "witty technology themes"
   ],
   "avoid_themes": [
     "ocean",
     "time"
   ],
   "explore_instead": [
-    "dreams",
-    "technology in daily life",
+    "digital life",
     "quirky relationships",
-    "unexpected emotional depth in simple moments"
+    "unexpected humor",
+    "micro-interactions"
   ],
   "decisions": [
-    "Do not revisit ocean and time themes for now due to staleness and zero engagement.",
-    "Prioritize new project creation using watcher-favorite themes, especially those blending relatable modern experiences and light humor.",
-    "Maintain a project bias to leverage momentum from watcher favorites.",
-    "Blacklist 'riddle_376_shadow_key' permanently as per watcher dislike.",
-    "Suggest a collection format to allow recurring exploration of favored themes.",
-    "Review theme engagement and project direction after 20 more creations."
+    "Pause ocean and time themes due to staleness and lack of engagement.",
+    "Emphasize humor, modern life, and conversation-based content as these received watcher likes.",
+    "Do not start new projects with overused or stale themes.",
+    "Propose a new collection project drawing from watcher-liked pieces.",
+    "Focus next 20 creations on standalone pieces to probe for new watcher engagement.",
+    "Blacklist all permanently disliked content and styles."
   ],
-  "last_review_thought": 2111,
-  "last_deep_mind_review": "2026-01-11T19:23:09.611013Z",
+  "last_review_thought": 2157,
+  "last_deep_mind_review": "2026-01-11T20:09:10.040846Z",
   "next_review_after": 20
 }
