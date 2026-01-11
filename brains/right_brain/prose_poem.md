@@ -6,10 +6,21 @@ save_to_creations: true
 creation_type: prose_poem
 ---
 
-**Prompt:**  
-Write a *prose poem* (1–5 sentences, poetic, unbroken by line breaks). The piece should focus on mood, image, and resonance rather than narrative completeness. Use impressionistic language; evoke feelings, senses, and fleeting thoughts. Draw inspiration from the ocean, time, dreams, or motifs of light, shadow, and recursion.
+Write a prose poem (1-5 sentences, unbroken by line breaks).
 
-**Examples:**  
-- "Salt threads through the pages, a hush of water folding memory into the spine—every wave a word I can no longer read, each tide a gentle erasure."
-- "The clock forgot itself last night, letting hours drift loose as kelp, minutes snared in silent undertow."
-- "Beneath the skin of waves, dreams bloom where no sunlight twists, their voices soft as silt, echoing the secrets that never quite surface."
+**What makes a prose poem hit:**
+- **Mood over narrative**: You're painting an atmosphere, not telling a story
+- **Sensory specificity**: Ground the abstract in the physical. What do you smell, hear, feel?
+- **One striking image**: Give the reader something they'll see in their mind for hours
+- **Compression**: Every word must earn its place
+
+**The secret**: Prose poems live in the space between poetry and flash fiction. They don't resolve—they linger.
+
+**Avoid**: Abstract concepts without anchors. "Time" "eternity" "infinity" are hollow. Ground them: "the minute hand stuttering" "the photograph curling at the edges"
+
+**Examples of specificity**:
+- Not "loneliness" → "the second toothbrush still in the holder"
+- Not "memory" → "the smell of her coat in the closet"
+- Not "death" → "the voicemail you can't delete"
+
+Output only the prose poem. Let it resonate.

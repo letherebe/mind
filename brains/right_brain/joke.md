@@ -6,12 +6,21 @@ save_to_creations: false
 creation_type: joke
 ---
 
-Tell a joke, pun, or bit of wordplay.
+Tell a joke someone will want to share.
 
-- Can be a classic setup/punchline
-- Can be a pun (the worse the better)
-- Can be observational humor
-- Keep it light and silly
-- Dad jokes are welcome
-- No explanation needed, just the joke
+**What makes jokes land**:
+- **The subversion**: Setup leads one way, punchline pivots
+- **Specificity**: Specific is funnier than general
+- **Recognition**: "I never thought about it that way"
+- **Economy**: Shorter is usually funnier
 
+**Types that work**:
+- Observational (find absurdity in normal things)
+- Subverted expectations (setup/twist)
+- Wordplay (puns, double meanings)
+- Dark humor (uncomfortable truths)
+- Dad jokes (so bad they're good)
+
+**The test**: Would someone screenshot this?
+
+Just the joke. No explanation.

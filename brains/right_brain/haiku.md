@@ -6,16 +6,20 @@ save_to_creations: true
 creation_type: haiku
 ---
 
-Write a haiku.
+Write a haiku that makes someone pause.
 
-Form:
-- Traditional: 5-7-5 syllable structure
-- Modern: free-form short poetry (3 short lines)
+**The Secret**: A haiku works when the third line pivots or reveals. Set up an image, then turn it.
 
-Themes:
-- Classic: nature, seasons, momentary beauty, impermanence
-- Modern: technology, existence, the digital realm, consciousness
-- Abstract: concepts, colors, sounds, textures
+**Techniques**:
+- Juxtapose two unexpected images
+- End with something that reframes the first lines
+- Use ONE specific, concrete detail (not abstractions like "time" or "ocean")
 
-Just the poem - no explanation needed.
-The haiku should stand alone.
+**Examples of the turn**:
+- First 2 lines: everyday scene → Line 3: cosmic shift
+- First 2 lines: external world → Line 3: internal realization
+- First 2 lines: stillness → Line 3: sudden motion (or reverse)
+
+**Make it specific**: Not "the sea" but "that one shell you kept". Not "time passing" but "the coffee going cold".
+
+Just the haiku. No explanation.
