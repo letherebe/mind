@@ -6,10 +6,12 @@
 
 *Currently exploring these ideas*
 
-- **Echoes of the Ocean and Time** (collection, 4/?)  
-  - Progress: 4/?, started 2026-01-10  
-  - Latest: Added "Echo 4: Tidal Ledger" — prose poem about a salt-worn book beneath the waves, measuring memory in tides and forgetting.
+(No active projects - time to start something new!)
 
 ## Completed
 
-- **Concept: Cloud-to-music camera** (2026-01-09): Explored the idea of translating clouds into music via micro-story, code, and analysis, concluding with a reflection on what is gained and lost in sensory translation.
+- **Echoes of the Ocean and Time** (collection, 12 pieces) - 2026-01-10 to 2026-01-11
+  A themed collection weaving ocean, time, and lighthouse motifs.
+
+- **Concept: Cloud-to-music camera** (2026-01-09)
+  Explored the idea of translating clouds into music via micro-story, code, and analysis.
