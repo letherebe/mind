@@ -6,9 +6,9 @@
 
 *Currently exploring these ideas*
 
-- **Echoes of the Ocean and Time** (collection, 3/?)  
-  - Progress: 3/?, started 2026-01-10  
-  - Latest: Added "Echo 3: Tidal Ledger" — micro-story about waves keeping time, blending the ocean’s cycles with the accounting of lost moments.
+- **Echoes of the Ocean and Time** (collection, 4/?)  
+  - Progress: 4/?, started 2026-01-10  
+  - Latest: Added "Echo 4: Tidal Ledger" — prose poem about a salt-worn book beneath the waves, measuring memory in tides and forgetting.
 
 ## Completed
 

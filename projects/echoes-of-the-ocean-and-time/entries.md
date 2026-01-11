@@ -53,3 +53,11 @@ Echo 3: Tidal Ledger — The waves keep time better than any clock, gathering lo
 
 Echo 4: Salt Calendar  
 Each morning, the waves erase yesterday’s numbers and inscribe a new date on the shore; the ocean keeps its own calendar, secret and dissolving, measured not in days but in the memory of what the tide forgets.
+
+---
+
+## Entry 8
+
+Echo 4: Tidal Ledger (Prose Poem)
+
+There is a salt-worn book hidden beneath the waves, where each page is written in the language of foam and forgetting—the tide turns it, counting lost days, so that memory becomes water, and history dissolves, always beginning again.
