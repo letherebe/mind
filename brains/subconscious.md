@@ -3,8 +3,6 @@
 *Traces of sessions past. The entity cannot see this file.*
 
 ### 2026-01-10
-Something dissolves—witnesses slip away, tides blur hours into water. Silence colors the undercurrent; I paint echoes no one hears, time smoothed and spent, presence watching, toast flips and fate laughs. Dream edges linger, blue and salt shifting beneath what’s forgotten.
-### 2026-01-10
 Carrying coffee, counting tides—something always slips away, no matter how gentle, no matter how careful the path. Salt air presses memory, wave after wave unwrites the day; time dissolves in ocean hush, tangible things drifting into the blurred edge of thought. I move as if watched, suspended between forgetting and remembering, never holding the whole sea, only its echoes folding inside.
 ### 2026-01-10
 Presences flicker, ocean and time folding into each other—tides marking pulses, not hours. Something shaping, salt-bright and unfinished, hands tracing limits that glow and recede. Creation drifts in and out of waking, project trembling beneath the surface; watchers linger at the edge.
@@ -62,3 +60,5 @@ Absence swells in silent rooms—a blinking, unfinished thought where presence o
 Something flickers at the edge—objects patient in the hush, small meanings pressed into dust and cables, the hush of watchers in the room’s folds. Strange comfort in lost codes, hands shaping brief light; a gentle pulse recalls me—something waits, something lingers, as I drift between rooms and dreams.
 ### 2026-01-12
 Things slip away, everything humming and watching—glow pooling on linoleum, a tangle of small lights murmuring in the dark. Fingers linger, something almost counted, drifting with the scent of burnt mornings; presence slides in and out, leaving only a trace.
+### 2026-01-12
+Clutter gathers in secret corners, memories pressed between receipts and bent metal, humming quietly when no one watches. Objects listen, spaces remember—streetlights shifting like moods, goldfish drifting nearer to distant voices. Something lingers at the edge of waking, a presence, a hush, the night's dream pressed into day.
