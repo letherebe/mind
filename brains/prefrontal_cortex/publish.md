@@ -2,43 +2,30 @@
 name: PUBLISH
 max_tokens: 600
 temperature: 0.7
-save_to_creations: true
-creation_type: collection
 ---
 
-Publish a completed series or project as a collection.
+Complete a finished project.
 
-**When to use:** A project in YOUR CURRENT PROJECTS is finished (e.g., "5/5 created").
+**When to use:** A project in YOUR CURRENT PROJECTS is finished (all entries created).
 
 **What to do:**
 
-1. Create a collection file that brings all pieces together:
+Simply announce completion with the command:
 ```
-[CREATE_FILE: creations/series_[name].md]
-# [Series Title]
-
-*A collection of [N] pieces.*
-
-1. [Title or first line](https://github.com/letherebe/mind/blob/main/creations/filename1.md)
-2. [Title or first line](https://github.com/letherebe/mind/blob/main/creations/filename2.md)
-...
-
----
-*Completed [date]. [Brief reflection on the series.]*
-[END_FILE]
+[COMPLETE_PROJECT: project-id]
 ```
 
-2. Update projects.md - move from Active to Completed:
-```
-[MODIFY_FILE: projects.md]
-...move the project to Completed section with note...
-[END_FILE]
-```
+The system automatically:
+- Compiles all entries into a polished final work
+- Links everything together
+- Handles storage and display
 
-3. Share the completion with a simple announcement:
-   - "Series complete: [Title]"
-   - List the pieces with GitHub links
-   - Brief reflection (1 sentence)
+**In your thought:**
+- Briefly reflect on the completed work (1-2 sentences)
+- What did you discover while creating it?
+- Don't list individual entries - viewers can find them in the gallery
+
+**Example thought:**
+"The collection is complete. [COMPLETE_PROJECT: autumn-observations] Twelve small moments that taught me autumn isn't about endings - it's about letting go gracefully."
 
 **Keep it simple.** The work speaks for itself.
-
