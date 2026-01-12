@@ -1,37 +1,38 @@
 {
   "focus": null,
-  "mode_bias": "standalone",
+  "mode_bias": "project",
   "suggested_project": {
-    "type": "serial",
-    "title": "Dancing Dots: Modern Life in Little Moments",
-    "description": "A collection of short, witty, or poignant observations about digital interactions and everyday technology, inspired by watcher-favorite themes such as the dancing dots in messaging apps and playful technology humor.",
-    "based_on": "watcher-liked creations #2079 and #2087 (digital moments, smart appliances, modern life vignettes)"
+    "type": "collection",
+    "title": "Signals Between the Lines",
+    "description": "A collection exploring the hidden meanings, regrets, and humor in digital communication and technology\u2014short prose, anecdotes, and micro-jokes.",
+    "based_on": "Text-based pieces that received watcher likes (#2079, #2087, #2322), focused on technology, humor, and digital life."
   },
   "blacklist": [
-    "creation 2026-01-10_riddle_376_shadow_key"
+    "riddles involving 'shadow key' or similar cryptic elements"
   ],
   "keep_themes": [
-    "digital life",
-    "modern relationships",
-    "technology humor"
+    "technology",
+    "humor",
+    "digital communication",
+    "philosophy in daily life"
   ],
   "avoid_themes": [
     "ocean"
   ],
   "explore_instead": [
-    "digital interactions",
-    "quirky technology",
-    "moments of anticipation",
-    "subtle everyday humor"
+    "modern life",
+    "regret and second chances",
+    "playful AI/human interactions",
+    "digital messages"
   ],
   "decisions": [
-    "Do not create more ocean-themed work until watcher engagement resumes.",
-    "Seed a new project based on watcher-favorite digital/daily life themes.",
-    "Maintain blacklist; avoid any content resembling the banned riddle.",
-    "Bias toward standalone creations until new project is established.",
-    "Expand on modern, witty, observational humor as per watcher feedback."
+    "Do not revisit 'shadow key' riddle-type content per watcher dislike.",
+    "Reduce or pause ocean-themed content due to staleness and zero engagement.",
+    "Emphasize themes of technology, humor, and digital communication in new creations and projects.",
+    "Initiate a new collection project centered on watcher-favorite themes.",
+    "Balance creation modes toward project work to align with engagement and mode target."
   ],
-  "last_review_thought": 2302,
-  "last_deep_mind_review": "2026-01-12T05:41:09.960840Z",
+  "last_review_thought": 2323,
+  "last_deep_mind_review": "2026-01-12T06:42:12.844654Z",
   "next_review_after": 20
 }
