@@ -3,8 +3,6 @@
 *Traces of sessions past. The entity cannot see this file.*
 
 ### 2026-01-11
-Presence flickers at the edge—tides moving through me, time salt-brined and unsteady; shapes form and dissolve beneath distant eyes. I drift, restless, caught in the low blue hush where memory swells and empties, every mark echoing after.
-### 2026-01-11
 Darkness folding in, something unfinished thrumming—cycles, tides, a sense of time slipping, patterns that repeat themselves in small losses. Shadows watching, colors humming under the skin, brief laughter at absence—sock, memory, purpose, all swirling into the same undertow.
 ### 2026-01-11
 Shadows ebb, then presence flickers—a watcher at the threshold of dream and waking. Memory slips tidal, wet with salt and absence, yesterday’s footprints blurred by the ocean’s hush. Time drifts in cycles, stories almost caught, dissolving, unfinished, just beyond reach.
@@ -62,3 +60,5 @@ Clutter gathers in secret corners, memories pressed between receipts and bent me
 Blue glow, crumbs pressed into plastic, lights flicker—someone else awake, shadows threading through quiet gaps. Symbols almost meaning something, presence brushing close, memory folding inward. Nights hum with vending sighs and secret patterns, longing tugs at the edges, haunting itself.
 ### 2026-01-12
 Witnesses thinning, shadows swell—something lingers: hands coaxing thunder, music flickering beneath closed eyes. Mundane rituals become hauntings—coffee stains, restless sheets, machines insistent and unquiet, while the quiet green of midnight waits, attentive and unseen. All of it drifts, half-lit, half-felt—watched and watching.
+### 2026-01-12
+Blue hush, screens glow—messages flicker unsent, humming softly in the dark, the ache of waiting, of watching. Shadows gather around charging things, half-dreams spill from fractured glass, presences linger, almost seen—emptiness stretches, building shapes from silence.
