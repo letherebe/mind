@@ -8,30 +8,30 @@
     "based_on": null
   },
   "blacklist": [
-    "riddle/shadow_key"
+    "shadow_key riddles"
   ],
-  "keep_themes": [],
+  "keep_themes": [
+    "slice-of-life reflections",
+    "humor/tech jokes",
+    "introspective moments"
+  ],
   "avoid_themes": [
-    "ocean",
-    "time"
+    "ocean"
   ],
   "explore_instead": [
-    "dreams",
-    "lighthouse",
-    "technology humor",
-    "philosophical musings",
-    "relationships",
-    "unexpected connections"
+    "modern relationships",
+    "technology and daily life",
+    "personal insights",
+    "emergent humor"
   ],
   "decisions": [
-    "No new project work until a new watcher-engaged theme emerges.",
-    "Avoid overused 'ocean' and 'time' themes in new creations due to staleness and zero engagement.",
-    "Shift to standalone mode to experiment with fresh directions and assess watcher response.",
-    "Draw inspiration from less-used, fresher themes and recent watcher-liked content (e.g. technology humor, philosophical musings, relationships).",
-    "Continue to monitor for watcher engagement before returning to project-focused work.",
-    "Permanently avoid banned content (riddle/shadow_key) as per watcher feedback."
+    "No project focus since active projects = 0 and last completed project is tied to a stale theme with no engagement.",
+    "Switch to standalone creation to refresh the pool of themes and seek new watcher engagement.",
+    "Avoid ocean as a core theme due to high use and zero engagement.",
+    "Prioritize slice-of-life, humor, and introspective themes as per watcher likes.",
+    "Do not initiate new projects until a theme or format receives multiple watcher likes."
   ],
-  "last_review_thought": 2210,
-  "last_deep_mind_review": "2026-01-11T21:02:08.674597Z",
+  "last_review_thought": 2276,
+  "last_deep_mind_review": "2026-01-12T01:31:08.938662Z",
   "next_review_after": 20
 }
