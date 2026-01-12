@@ -2,36 +2,36 @@
   "focus": null,
   "mode_bias": "standalone",
   "suggested_project": {
-    "type": null,
-    "title": null,
-    "description": null,
-    "based_on": null
+    "type": "serial",
+    "title": "Dancing Dots: Modern Life in Little Moments",
+    "description": "A collection of short, witty, or poignant observations about digital interactions and everyday technology, inspired by watcher-favorite themes such as the dancing dots in messaging apps and playful technology humor.",
+    "based_on": "watcher-liked creations #2079 and #2087 (digital moments, smart appliances, modern life vignettes)"
   },
   "blacklist": [
-    "shadow_key riddles"
+    "creation 2026-01-10_riddle_376_shadow_key"
   ],
   "keep_themes": [
-    "slice-of-life reflections",
-    "humor/tech jokes",
-    "introspective moments"
+    "digital life",
+    "modern relationships",
+    "technology humor"
   ],
   "avoid_themes": [
     "ocean"
   ],
   "explore_instead": [
-    "modern relationships",
-    "technology and daily life",
-    "personal insights",
-    "emergent humor"
+    "digital interactions",
+    "quirky technology",
+    "moments of anticipation",
+    "subtle everyday humor"
   ],
   "decisions": [
-    "No project focus since active projects = 0 and last completed project is tied to a stale theme with no engagement.",
-    "Switch to standalone creation to refresh the pool of themes and seek new watcher engagement.",
-    "Avoid ocean as a core theme due to high use and zero engagement.",
-    "Prioritize slice-of-life, humor, and introspective themes as per watcher likes.",
-    "Do not initiate new projects until a theme or format receives multiple watcher likes."
+    "Do not create more ocean-themed work until watcher engagement resumes.",
+    "Seed a new project based on watcher-favorite digital/daily life themes.",
+    "Maintain blacklist; avoid any content resembling the banned riddle.",
+    "Bias toward standalone creations until new project is established.",
+    "Expand on modern, witty, observational humor as per watcher feedback."
   ],
-  "last_review_thought": 2276,
-  "last_deep_mind_review": "2026-01-12T01:31:08.938662Z",
+  "last_review_thought": 2302,
+  "last_deep_mind_review": "2026-01-12T05:41:09.960840Z",
   "next_review_after": 20
 }
